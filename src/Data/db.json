@@ -1,39 +1,46 @@
 {
   "user": [
     {
-      "id": 1,
-      "name": "Admin User",
+      "name": "El hadji Rawane Meissa Sow",
+      "email": "rawane",
+      "phone": "773987059",
       "role": "admin",
-      "email": "admin@in.com",
-      "phone": "9876543210"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Suresh",
-      "email": "sr@in.com",
-      "phone": "9876543210",
-      "role": "staff"
+      "name": "Kritek user 1",
+      "email": "user_1@kritek.com",
+      "phone": "773987059",
+      "role": "staff",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Ramesh",
-      "email": "ra.admin@in.com",
-      "phone": "9876543210",
-      "role": "admin"
+      "name": "Kritek user 2",
+      "email": "user_2@kritek.com",
+      "phone": "773987059",
+      "role": "staff",
+      "id": 3
     },
     {
-      "name": "Akilash",
-      "email": "ak@in.com",
-      "phone": "789900",
+      "name": "Kritek user 3",
+      "email": "user_3@kritek.com",
+      "phone": "773987059",
       "role": "staff",
       "id": 4
     },
     {
-      "id": 5,
-      "name": "test",
-      "email": "test@gmail.com",
-      "phone": "900000222",
-      "role": "staff"
+      "name": "Kritek user 4",
+      "email": "user_4@kritek.com",
+      "phone": "773987059",
+      "role": "staff",
+      "id": 5
+    },
+    {
+      "name": "Kritek user 5",
+      "email": "user_5@kritek.com",
+      "phone": "773987059",
+      "role": "staff",
+      "id": 6
     }
   ]
 }
